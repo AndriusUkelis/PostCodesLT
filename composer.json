@@ -1,0 +1,19 @@
+{
+    "name": "AndriusUkelis/PostCodesLT",
+    "description": "",
+    "authors": [
+        {
+            "name": "AndriusUkelis",
+            "email": "andrius.ukelis@hotmail.com"
+        }
+    ],
+    "require":{
+        "php": ">=7.0",
+        "guzzlehttp/guzzle": "~6.2.1"
+    },
+    "autoload": {
+        "psr-4": {"AndriusUkelis\\PostCodesLT\\": "src"},
+        "files": [
+        ]
+    }
+}
